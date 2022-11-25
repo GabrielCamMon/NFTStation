@@ -1,0 +1,12 @@
+.section-create {
+  padding: 10rem 4.5rem;
+    // background-image: linear-gradient(
+    //   to right bottom,
+    //   $color-primary-light,
+    //   $color-primary-dark
+    // );
+  
+    @include respond(tab-port) {
+      padding: 10rem 0;
+    }
+  }

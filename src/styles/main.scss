@@ -6,6 +6,17 @@
 @import "base/typography";
 
 @import "layout/header";
+@import "layout/header-private";
 @import "layout/navigation";
+@import "layout/grid";
 
 @import "components/button";
+@import "components/card";
+@import "components/form";
+
+
+@import "pages/home";
+@import "pages/explore";
+@import "pages/create";
+
+

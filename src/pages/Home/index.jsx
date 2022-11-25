@@ -1,13 +1,13 @@
-import Navigation from "@/components/Navigation";
-import Header from "@/components/Home/Header";
+import Header from '../../components/Home/Header'
+import Explore from '../../components/Home/Explore'
 
 const Home = () => {
   return (
     <div>
-      <Navigation />
       <Header />
+      <Explore />
     </div>
-  );
-};
+  )
+}
 
-export default Home;
+export default Home

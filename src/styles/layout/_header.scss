@@ -5,8 +5,9 @@
   background-position: top;
   position: relative;
 
-  @media (min-resolution: 192dpi) and (min-width: 37.5em), (min-width: 125em) {
-    background-image: url(/assets/backgorund-header-2x.png);
+  @media  (min-width: 37.5em), (min-width: 125em) {
+    height: 110vh;
+    background-image: url(/assets/background-header-2x.png);
   }
 
   &__logo-box {

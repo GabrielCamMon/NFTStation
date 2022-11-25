@@ -1,0 +1,17 @@
+.header-private {
+  height: 10vh;
+  position: relative;
+ 
+  &__logo-box {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -45%);
+    text-align: center;
+  }
+
+  &__logo {
+    height: 10rem;
+  }
+ 
+}
