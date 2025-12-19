@@ -11,3 +11,5 @@ REPORT_GAS=true npx hardhat test
 npx hardhat node
 npx hardhat run scripts/deploy.js
 ```
+📄 **TCC – NFTStation e Smart Contract**  
+[TCC - Gabriel Campos Monteiro](TCC-%20Gabriel%20Campos%20Monteiro,%20NFTStation%20e%20SmartContract.pdf)
